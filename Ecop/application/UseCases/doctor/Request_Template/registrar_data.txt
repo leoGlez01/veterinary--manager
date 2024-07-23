@@ -1,0 +1,28 @@
+{
+    "nombre_tutor": "Juan Perez",
+    "dni": "12345678",
+    "telefono": "987654321",
+    "direccion": "Calle Falsa 123",
+    "mascotas": [
+        {
+            "nombre_mascota": "Firulais",
+            "especie": "Perro",
+            "raza": "Labrador",
+            "edad": 3,
+            "tipo_consulta":"espfsf",
+            "color":"sad",
+            "sexo":"ads",
+            "fecha_consulta":"2024-04-10"
+        },
+        {
+            "nombre_mascota": "Michi",
+            "especie": "Gato",
+            "raza": "Siames",
+            "edad": 2,
+            "tipo_consulta":"efsf",
+            "color":"sadsssa",
+            "sexo":"adaaas",
+            "fecha_consulta":"2024-04-10"
+        }
+    ]
+}

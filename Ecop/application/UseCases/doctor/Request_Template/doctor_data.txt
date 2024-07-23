@@ -1,0 +1,120 @@
+{
+  "mascota_id": 1,
+  "ecop": {
+    "motivo_consulta": "a",
+    "anamnesis": "a",
+    "estado_reproductivo": "Castrado",
+    "alimentacion": "Balanceada",
+    "habitat": "Finca",
+    "alergias": "a",
+    "tllc": 1,
+    "pulso": 1,
+    "fc": 1,
+    "fr": 1,
+    "temperatura": 1,
+    "peso": 1
+  },
+  "sistemas": [
+    {
+      "sistema": "enfermedades intestinales en rumiantes",
+      "enfermedad": "Síndrome de homorragia y yeyunal",
+      "organo": "a",
+      "observacion": "a"
+    },
+    {
+      "sistema": "La sangre y el sistema linfántico",
+      "enfermedad": "Anemia por pérdida de sangre",
+      "organo": "b",
+      "observacion": "b"
+    }
+  ],
+  "problemas": [
+    {
+      "problema": "a",
+      "maestra": "a",
+      "diagnostico_diferencial": "a"
+    },
+    {
+      "problema": "b",
+      "maestra": "b",
+      "diagnostico_diferencial": "b"
+    }
+  ],
+  "diagnosticos": [
+    {
+      "tipo_examen": "Biometría hemática",
+      "autorizado": "Autorizacion",
+      "fecha": "2024-04-06",
+      "laboratorio": "a",
+      "resultados": "a"
+    },
+    {
+      "tipo_examen": "Urianalisis",
+      "autorizado": false,
+      "fecha": "2024-04-12",
+      "laboratorio": "b",
+      "resultados": "b"
+    }
+  ],
+  "planes_terapeuticos": [
+    {
+      "tratamiento": "Terapia de sostén",
+      "principio_activo": "a",
+      "presentacion": "a",
+      "posologia": 54,
+      "dosis_total": 4,
+      "via": "a",
+      "frecuencia": 24,
+      "duracion": 4,
+      "estado": "En tratamiento",
+      "interpretacion_resultados": "a",
+      "impresion_diagnostica": "a"
+    },
+    {
+      "tratamiento": "Tratamiento preventivo",
+      "principio_activo": "b",
+      "presentacion": "b",
+      "posologia": 54,
+      "dosis_total": 45,
+      "via": "b",
+      "frecuencia": 54,
+      "duracion": 45,
+      "estado": "En tratamiento",
+      "interpretacion_resultados": "a",
+      "impresion_diagnostica": "a"
+    }
+  ],
+
+  "mucosas": [
+    {
+      "rectal": true,
+      "conjuntival": false,
+      "vulvar_prepucial": false,
+      "observacion_rectal": "a",
+      "observacion_conjuntival": "a",
+      "observacion_vulvar_prepucial": "a",
+      "ecop": 1
+    }
+  ]
+
+  "nodulos": [
+    {
+      "estado": true,
+      "observacion_nodulos": "a",
+      "ecop": 1
+    }
+  ]
+
+  "pasantes": [
+    {
+      "nombre": "a",
+      "dni": "a",
+      "semestre": "a"
+    },
+    {
+      "nombre": "b",
+      "dni": "b",
+      "semestre": "b"
+    }
+  ]
+}
