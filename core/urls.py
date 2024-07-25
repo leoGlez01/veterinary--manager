@@ -3,8 +3,8 @@ from django.contrib import admin
 from django.urls import path, include
 from django.conf import settings
 from django.conf.urls.static import static
-from ecop.infraestructure.doctor import urls as doctor_urls
-from ecop.infraestructure.recepcion import urls as recepcion_urls
+from Ecop.infraestructure.doctor import urls as doctor_urls
+from Ecop.infraestructure.recepcion import urls as recepcion_urls
 
 urlpatterns = [
     path('admin/', admin.site.urls),
